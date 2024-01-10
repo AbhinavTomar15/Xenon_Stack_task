@@ -34,3 +34,11 @@ Command4: ./internsctl file getinfo --owner hello.txt
 Command5: ./internsctl file getinfo --last-modified hello.txt
 
 <img width="960" alt="Screenshot 2024-01-10 132133" src="https://github.com/AbhinavTomar15/xenon_stack_Tasks/assets/104672177/ae9f3a6c-1bfb-45db-891a-2a20e236725f">
+TASK 2 <br/>
+<img width="960" alt="Screenshot 2024-01-10 170853" src="https://github.com/AbhinavTomar15/Xenon_Stack_task/assets/104672177/82f05b54-2584-433e-b4ec-397d136864a3">
+<br/>
+<img width="960" alt="Screenshot 2024-01-10 170911" src="https://github.com/AbhinavTomar15/Xenon_Stack_task/assets/104672177/8f61df3c-a10a-417a-be46-22929fd29a9a">
+<br/>
+<img width="960" alt="Screenshot 2024-01-10 170954" src="https://github.com/AbhinavTomar15/Xenon_Stack_task/assets/104672177/2eb3ef5e-c2b5-400d-8d54-3abe49d06b1b">
+
+
